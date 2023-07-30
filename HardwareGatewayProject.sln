@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwareGatewayService", "HardwareGatewayService\HardwareGatewayService.csproj", "{6F574658-3F97-4BA7-B592-7F08034790C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwareGatewayWebApi", "HardwareGatewayWebApi\HardwareGatewayWebApi.csproj", "{6A5F4D13-2FBA-4103-B923-6003073C0C45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F574658-3F97-4BA7-B592-7F08034790C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F574658-3F97-4BA7-B592-7F08034790C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F574658-3F97-4BA7-B592-7F08034790C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F574658-3F97-4BA7-B592-7F08034790C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5F4D13-2FBA-4103-B923-6003073C0C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5F4D13-2FBA-4103-B923-6003073C0C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5F4D13-2FBA-4103-B923-6003073C0C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5F4D13-2FBA-4103-B923-6003073C0C45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBC505DF-2079-498A-BE55-BD23CC711A87}
+	EndGlobalSection
+EndGlobal
